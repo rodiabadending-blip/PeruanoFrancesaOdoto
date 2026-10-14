@@ -1,0 +1,6 @@
+{
+  "name": "Peruano Francesa - Historia Clínica Odontológica",
+  "description": "Sistema PWA de Historia Clínica Odontológica del Centro Odontológico Peruano Francesa (Trujillo - Perú). Titular y Dirección: Dr. Gersson Anthony Valdivia Medina (CCDP 62958). Odontograma interactivo completo, gestión y depuración de historias clínicas y firma digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
